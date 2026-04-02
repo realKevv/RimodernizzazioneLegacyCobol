@@ -1,0 +1,5 @@
+prompt_toolkit==3.0.43
+langgraph==0.0.60
+langchain-core==0.1.52
+langchain-community==0.0.38
+sqlite3==3.41.2
